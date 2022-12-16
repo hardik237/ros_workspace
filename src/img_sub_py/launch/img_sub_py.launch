@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="img_sub_py" name="img_sub_py" type="img_sub_py_node"/>
+</launch>
